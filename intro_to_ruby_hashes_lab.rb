@@ -1,5 +1,5 @@
 def new_hash
-	pets = {"cat" => "Maru", "dog" => "Pluto"}
+	pets = {}
 end
 
 def actor
